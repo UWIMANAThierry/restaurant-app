@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "email": "peter@gmail.com",
+      "name": "uwimana",
+      "password": "aba@125",
+      "id": 1
+    },
+    {
+      "email": "uwi@gmail.com",
+      "name": "uwimana",
+      "password": "aba@000",
+      "id": 2
+    },
+    {
+      "email": "thierrybishop@gmail.com",
+      "name": "thierry uwimana",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "email": "thierrybishop@gmail.com",
+      "name": "mushimiyimana",
+      "password": "abc1234",
+      "id": 4
+    },
+    {
+      "email": "jean@gmail.com",
+      "name": "rukundo",
+      "password": "123r34t565",
+      "id": 5
+    },
+    {
+      "email": "rukundo@gmail.com",
+      "name": "thierry",
+      "password": "122345",
+      "id": 6
+    },
+    {
+      "email": "rukundo@gmail.com",
+      "name": "thierry",
+      "password": "122345",
+      "id": 7
+    },
+    {
+      "email": "jean@gmail.com",
+      "name": "jean",
+      "password": "aba@0001",
+      "id": 8
+    },
+    {
+      "email": "jean@gmail.com",
+      "name": "jean",
+      "password": "aba@0001",
+      "id": 9
+    },
+    {
+      "email": "thierrybishop@gmail.com",
+      "name": "therry",
+      "password": "abc123",
+      "id": 10
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "email": "thierry@gmail.com",
+      "name": "thierry",
+      "password": "abc@123",
+      "id": 12
+    },
+    {
+      "email": "thierrybishop@gmail.com",
+      "name": "thierry",
+      "password": "big1234",
+      "id": 13
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 14
+    }
+  ]
+}
