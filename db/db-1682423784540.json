@@ -143,32 +143,6 @@
       "name": "hishamunda",
       "password": "abc@123",
       "id": 24
-    },
-    {
-      "email": "ganza@gmail.com",
-      "name": "ian",
-      "password": "aba@0001",
-      "id": 25
-    }
-  ],
-  "restaurant": [
-    {
-      "id": 1,
-      "name": "Monaco Cafe",
-      "address": "Gisozi Street",
-      "contact": 782097232,
-      "city": "Kigali",
-      "state": "Kigali City",
-      "zip": "250"
-    },
-    {
-      "name": "Onomo Hotel",
-      "address": "Nyarugenge",
-      "contact": 782097244,
-      "city": "Kigali",
-      "state": "Kigali City",
-      "zip": "250",
-      "id": 2
     }
   ]
 }
