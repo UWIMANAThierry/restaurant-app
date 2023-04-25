@@ -16,9 +16,13 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  color: #010c16;
+  margin-top: auto;
+  }
+body{
+    padding: auto;
+    margin: auto;
+  }
 .logo {
   width: 100px;
 }
@@ -41,7 +45,4 @@ export default {
   color: #fff;
   cursor: pointer;
 }
-
-
-
 </style>
