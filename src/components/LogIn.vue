@@ -1,7 +1,7 @@
 <template>
   <img class="logo" src="../assets/logo.jpg" />
   <h1>Login Page</h1>
-  <div class="register">
+  <div class="login">
     <input type="text" v-model="email" placeholder="Enter Email" />
     <input type="password" v-model="password" placeholder="Enter Password" />
     <button>Sign In</button>
