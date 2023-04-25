@@ -9,7 +9,7 @@
     <button v-on:click="signUp">Sign Up</button>
     <p>
       Already have an account?
-      <router-link to="/login">Login </router-link>
+      <router-link to="/sign-in">Login </router-link>
     </p>
   </div>
 </template>
@@ -42,7 +42,7 @@ export default {
  mounted () {
     let user = localStorage.getItem('user-info')
     if (user) {
-      this.$router.push({ name: 'HomePage' })
+      this.$router.push({ name: 'sign-in' })
     }
   } 
 }
