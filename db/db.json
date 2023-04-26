@@ -169,6 +169,15 @@
       "state": "Kigali City",
       "zip": "250",
       "id": 2
+    },
+    {
+      "name": "Bar Restaurant",
+      "address": "Kagugu",
+      "contact": 7892097244,
+      "city": "Kigali",
+      "state": "Kigali City",
+      "zip": "250",
+      "id": 3
     }
   ]
 }
