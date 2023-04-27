@@ -1,5 +1,5 @@
 <template>
-<HeaderPage/>  
+<HeaderPage />  
 <h1> Hello {{name}}, Welcome Add Restaurant Page </h1>
 <form class ="add">
   <input type="text" name="name" placeholder="Enter Name" v-model="restaurant.name">
@@ -11,6 +11,7 @@
 </template>
 
 <script>
+import axios from 'axios';
 import HeaderPage from './HeaderPage.vue';
 export default {
     name : 'AddPage',
@@ -29,8 +30,18 @@ export default {
       }
     },
     methods :{
-      addRestaurant(){
-        this.$emit('addRestaurant',this.restaurant);
+    async  addRestaurant(){
+        const result = await axios.post("http://localhost:3000/restaurant",{
+          name:this.restaurant.name,
+          address:this.restaurant.address,
+          contact:this.restaurant.contact,
+          city:this.restaurant.city
+        });
+        if(result.status==201)
+        {
+          this.$router.push({name:'HomePage'});
+        }
+        console.warn("result",result)
       }
     },
 

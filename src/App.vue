@@ -9,7 +9,6 @@ export default {
 
 }
 </script>
-
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -18,7 +17,7 @@ export default {
   text-align: center;
   color: #010c16;
   margin-top: auto;
-  }
+  } 
 body{
     padding: auto;
     margin: auto;
