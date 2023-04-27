@@ -153,6 +153,49 @@
   ],
   "restaurant": [
     {
+      "id": 1,
+      "name": "Monaco Cafe",
+      "address": "Gisozi Street",
+      "contact": 782097232,
+      "city": "Kigali",
+      "state": "Kigali City",
+      "zip": "250"
+    },
+    {
+      "name": "Onomo Hotel",
+      "address": "Nyarugenge",
+      "contact": 782097244,
+      "city": "Kigali",
+      "state": "Kigali City",
+      "zip": "250",
+      "id": 2
+    },
+    {
+      "name": "Bar Restaurant",
+      "address": "Kagugu",
+      "contact": 7892097244,
+      "city": "Kigali",
+      "state": "Kigali City",
+      "zip": "250",
+      "id": 3
+    },
+    {
+      "name": "Bar Restaurant",
+      "address": "Kagugu",
+      "contact": 7892097244,
+      "city": "Kigali",
+      "state": "Kigali City",
+      "zip": "250",
+      "id": 4
+    },
+    {
+      "name": "uwimana thierry",
+      "address": "rusizi",
+      "contact": "485785",
+      "city": "rusizi",
+      "id": 5
+    },
+    {
       "name": "BENIGO BAR",
       "address": "KIGALI RWANDA",
       "contact": "485785",
@@ -165,6 +208,20 @@
       "contact": "5795",
       "city": "Gasabo",
       "id": 7
+    },
+    {
+      "name": "Bar One",
+      "address": "thierry@gmail.com",
+      "contact": "7855",
+      "city": "Gasabo",
+      "id": 8
+    },
+    {
+      "name": "",
+      "address": "",
+      "contact": "",
+      "city": "",
+      "id": 9
     }
   ]
 }
